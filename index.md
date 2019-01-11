@@ -1,4 +1,3 @@
-# Logan Collingwood
 
 ## Current
 Software Engineer - Payments, Blizzard Battle.net
