@@ -15,4 +15,5 @@ Senior Lab Programmer -
 
 ### Socials
 [@__loganc - twitter](https://www.twitter.com/__loganc)
+
 [logancollingwood - github](https://www.github.com/logancollingwood)
