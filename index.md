@@ -1,11 +1,15 @@
 
 ## Current
-- Software Engineer - Payments, Blizzard Battle.net
+- Senior Software Engineer - Esports, Riot Games
 
 - Lead Developer, CoFounder - smashlounge [www.smashlounge.com]
 
 
 ## Past
+- Software Engineer - Continuous Service Delivery, Riot Games
+
+- Software Engineer - Payments, Blizzard Battle.net
+
 - Associate Software Engineer - Payments, Blizzard Battle.net
 
 - Associate Test Engineer - Payments, Blizzard Battle.net
